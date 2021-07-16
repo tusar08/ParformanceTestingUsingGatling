@@ -1,0 +1,6 @@
+RUN	Simulations.PusetimeResponceCode	pusetimeresponcecode	1626419228418	test status	3.5.1
+USER	user api call	START	1626419229885
+REQUEST		list all users	1626419229903	1626419230350	OK	 
+REQUEST		single user	1626419235369	1626419235519	OK	 
+REQUEST		single user not found	1626419237305	1626419237911	OK	 
+USER	user api call	END	1626419240921

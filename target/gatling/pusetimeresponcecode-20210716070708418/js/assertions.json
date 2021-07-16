@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations.PusetimeResponceCode",
+  "simulationId": "pusetimeresponcecode",
+  "start": 1626419228418,
+  "description": "test status",
+  "scenarios": ["user api call"],
+  "assertions": [
+
+  ]
+}

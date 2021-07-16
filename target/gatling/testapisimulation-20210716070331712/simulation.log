@@ -1,0 +1,4 @@
+RUN	Simulations.TestAPIsimulation	testapisimulation	1626419011712	 	3.5.1
+USER	get offer	START	1626419014294
+REQUEST		get offer details	1626419014315	1626419019197	OK	 
+USER	get offer	END	1626419019210

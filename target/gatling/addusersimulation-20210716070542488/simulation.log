@@ -1,0 +1,51 @@
+RUN	Simulations.AddUserSimulation	addusersimulation	1626419142488	test	3.5.1
+ERROR	add user request: Failed to build request: Resource ./src/test/resources/Bodies/AddUser.json not found 	1626419144364
+ERROR	add user request: Failed to build request: Resource ./src/test/resources/Bodies/AddUser.json not found 	1626419144364
+ERROR	add user request: Failed to build request: Resource ./src/test/resources/Bodies/AddUser.json not found 	1626419144364
+ERROR	add user request: Failed to build request: Resource ./src/test/resources/Bodies/AddUser.json not found 	1626419144364
+ERROR	add user request: Failed to build request: Resource ./src/test/resources/Bodies/AddUser.json not found 	1626419144364
+ERROR	add user request: Failed to build request: Resource ./src/test/resources/Bodies/AddUser.json not found 	1626419144364
+ERROR	add user request: Failed to build request: Resource ./src/test/resources/Bodies/AddUser.json not found 	1626419144364
+ERROR	add user request: Failed to build request: Resource ./src/test/resources/Bodies/AddUser.json not found 	1626419144364
+ERROR	add user request: Failed to build request: Resource ./src/test/resources/Bodies/AddUser.json not found 	1626419144364
+ERROR	add user request: Failed to build request: Resource ./src/test/resources/Bodies/AddUser.json not found 	1626419144364
+USER	Add User Scenario	START	1626419144348
+USER	Add User Scenario	START	1626419144348
+USER	Add User Scenario	START	1626419144348
+USER	Add User Scenario	START	1626419144348
+USER	Add User Scenario	START	1626419144348
+USER	Add User Scenario	START	1626419144348
+USER	Add User Scenario	START	1626419144348
+USER	Add User Scenario	START	1626419144348
+USER	Add User Scenario	START	1626419144348
+USER	Add User Scenario	START	1626419144348
+REQUEST		get user request	1626419149386	1626419149735	OK	 
+REQUEST		get user request	1626419149386	1626419149752	OK	 
+REQUEST		get user request	1626419149386	1626419149753	OK	 
+REQUEST		get user request	1626419149386	1626419149754	OK	 
+REQUEST		get user request	1626419149386	1626419149756	OK	 
+REQUEST		get user request	1626419149386	1626419149772	OK	 
+REQUEST		get user request	1626419149386	1626419149772	OK	 
+REQUEST		get user request	1626419149386	1626419150177	OK	 
+REQUEST		get user request	1626419149386	1626419150185	OK	 
+REQUEST		get user request Redirect 1	1626419149754	1626419150668	KO	status.find.is(200), but actually found 404
+REQUEST		get user request Redirect 1	1626419149753	1626419150661	KO	status.find.is(200), but actually found 404
+USER	Add User Scenario	END	1626419150677
+USER	Add User Scenario	END	1626419150677
+REQUEST		get user request Redirect 1	1626419149773	1626419150677	KO	status.find.is(200), but actually found 404
+USER	Add User Scenario	END	1626419150678
+REQUEST		get user request Redirect 1	1626419149773	1626419150703	KO	status.find.is(200), but actually found 404
+USER	Add User Scenario	END	1626419150705
+REQUEST		get user request	1626419149386	1626419150726	OK	 
+REQUEST		get user request Redirect 1	1626419150186	1626419150927	KO	status.find.is(200), but actually found 404
+USER	Add User Scenario	END	1626419150928
+REQUEST		get user request Redirect 1	1626419150177	1626419150932	KO	status.find.is(200), but actually found 404
+USER	Add User Scenario	END	1626419150933
+REQUEST		get user request Redirect 1	1626419149756	1626419150940	KO	status.find.is(200), but actually found 404
+USER	Add User Scenario	END	1626419150942
+REQUEST		get user request Redirect 1	1626419149754	1626419151049	KO	status.find.is(200), but actually found 404
+USER	Add User Scenario	END	1626419151051
+REQUEST		get user request Redirect 1	1626419149743	1626419151372	KO	status.find.is(200), but actually found 404
+USER	Add User Scenario	END	1626419151373
+REQUEST		get user request Redirect 1	1626419150727	1626419151522	KO	status.find.is(200), but actually found 404
+USER	Add User Scenario	END	1626419151523

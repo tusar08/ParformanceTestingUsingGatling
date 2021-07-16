@@ -1,0 +1,41 @@
+RUN	Simulations.AddUserSimulation	addusersimulation	1626419635583	test	3.5.1
+USER	Add User Scenario	START	1626419637262
+USER	Add User Scenario	START	1626419637262
+USER	Add User Scenario	START	1626419637262
+USER	Add User Scenario	START	1626419637262
+USER	Add User Scenario	START	1626419637262
+USER	Add User Scenario	START	1626419637262
+USER	Add User Scenario	START	1626419637262
+USER	Add User Scenario	START	1626419637262
+USER	Add User Scenario	START	1626419637262
+USER	Add User Scenario	START	1626419637262
+REQUEST		add user request	1626419637292	1626419637623	OK	 
+REQUEST		add user request	1626419637292	1626419637629	OK	 
+REQUEST		add user request	1626419637292	1626419637623	OK	 
+REQUEST		add user request	1626419637292	1626419637623	OK	 
+REQUEST		add user request	1626419637292	1626419637623	OK	 
+REQUEST		add user request	1626419637292	1626419637623	OK	 
+REQUEST		add user request	1626419637292	1626419637629	OK	 
+REQUEST		add user request	1626419637292	1626419637623	OK	 
+REQUEST		add user request	1626419637292	1626419637623	OK	 
+REQUEST		add user request	1626419637292	1626419637685	OK	 
+REQUEST		add user request Redirect 1	1626419637633	1626419638194	KO	status.find.is(201), but actually found 200
+REQUEST		add user request Redirect 1	1626419637633	1626419638194	KO	status.find.is(201), but actually found 200
+REQUEST		add user request Redirect 1	1626419637633	1626419638194	KO	status.find.is(201), but actually found 200
+REQUEST		add user request Redirect 1	1626419637633	1626419638194	KO	status.find.is(201), but actually found 200
+REQUEST		add user request Redirect 1	1626419637633	1626419638194	KO	status.find.is(201), but actually found 200
+REQUEST		add user request Redirect 1	1626419637633	1626419638194	KO	status.find.is(201), but actually found 200
+REQUEST		add user request Redirect 1	1626419637685	1626419638194	KO	status.find.is(201), but actually found 200
+REQUEST		add user request Redirect 1	1626419637633	1626419638194	KO	status.find.is(201), but actually found 200
+USER	Add User Scenario	END	1626419638222
+USER	Add User Scenario	END	1626419638222
+USER	Add User Scenario	END	1626419638222
+USER	Add User Scenario	END	1626419638222
+USER	Add User Scenario	END	1626419638222
+USER	Add User Scenario	END	1626419638222
+USER	Add User Scenario	END	1626419638222
+USER	Add User Scenario	END	1626419638222
+REQUEST		add user request Redirect 1	1626419637633	1626419638720	KO	status.find.is(201), but actually found 200
+REQUEST		add user request Redirect 1	1626419637633	1626419638720	KO	status.find.is(201), but actually found 200
+USER	Add User Scenario	END	1626419638722
+USER	Add User Scenario	END	1626419638722
